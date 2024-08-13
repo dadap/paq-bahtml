@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "pIqaD qolqoS";
+	src: url("pIqaD-qolqoS.ttf");
+}
+
+body {
+	font-family: "pIqaD qolqoS";
+}
+
+h1 {
+	text-align: center;
+	break-before: recto;
+}
+
+.zayz {
+	break-before: page;
+}
+
+.zayzHom {
+	padding: .25em;
+	break-inside: avoid;
+}
+
+.zayzHom div {
+	padding-left: .5em;
+}
+
+.zayzHom div:first-child {
+	padding-left: 0;
+}
