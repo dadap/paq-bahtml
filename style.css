@@ -28,3 +28,109 @@ h1 {
 .zayzHom div:first-child {
 	padding-left: 0;
 }
+
+.Hoch {
+	color: white;
+	text-shadow: black 0 0 1px, black 0 0 1.5px, black 0 0 2px;
+}
+
+.jatlh {
+	position: relative;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	padding: .25em;
+}
+
+.jatlh:before, .jatlh:after {
+	border-style: solid;
+	border-right: none;
+	border-width: 1px;
+	position: absolute;
+	width: 1em;
+	height: 1em;
+	display: block;
+	content: ' ';
+	left: 0;
+}
+
+.jatlh:before {
+	top: 0;
+	border-bottom: none;
+}
+
+.jatlh:after {
+	bottom: 0;
+	border-top: none;
+}
+
+.jatlh>:first-child:before {
+	position: absolute;
+	top: -2pt;
+	left: 20pt;
+	font-size: 6pt;
+}
+
+.qeylIS:before, .qeylIS:after {
+	border-color: red;
+	border-width: 3px;
+	border-style: double;
+	border-right: none;
+}
+
+.qeylIS:before {
+	border-bottom: none;
+}
+
+.qeylIS:after {
+	border-top: none;
+}
+
+.qeylIS>:first-child:before {
+	content: '';
+}
+
+.qeylIS {
+	color: red;
+}
+
+.molor:before, .molor:after, .molor,
+.molor_Duy:before, .molor_Duy:after, .molor_Duy{
+	border-color: grey;
+	color: grey;
+}
+
+.molor>:first-child:before {
+	content: '';
+}
+
+.molor_Duy>:first-child:before {
+	content: ' ';
+}
+
+.qanjIt>:first-child:before {
+	content: '';
+}
+
+.moratlh>:first-child:before {
+	content: '';
+}
+
+.qanjIt.moratlh>:first-child:before {
+	content: '  ';
+}
+
+.qanraz>:first-child:before {
+	content: '';
+}
+
+.luqaraz>:first-child:before {
+	content: '';
+}
+
+.SuvwIz_qan>:first-child:before {
+	content: ' ';
+}
+
+.qortar>:first-child:before {
+	content: '';
+}
