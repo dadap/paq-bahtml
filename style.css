@@ -5,6 +5,7 @@
 
 body {
 	font-family: "pIqaD qolqoS";
+	font-size: 10pt;
 }
 
 h1 {
@@ -17,12 +18,12 @@ h1 {
 }
 
 .zayzHom {
-	padding: .25em;
+	padding: 3pt;
 	break-inside: avoid;
 }
 
 .zayzHom div {
-	padding-left: .5em;
+	padding-left: 5pt;
 }
 
 .zayzHom div:first-child {
@@ -36,9 +37,9 @@ h1 {
 
 .jatlh {
 	position: relative;
-	margin-top: .5em;
-	margin-bottom: .5em;
-	padding: .25em;
+	margin-top: 5pt;
+	margin-bottom: 5pt;
+	padding: 3pt;
 }
 
 .jatlh:before, .jatlh:after {
@@ -46,8 +47,8 @@ h1 {
 	border-right: none;
 	border-width: 1px;
 	position: absolute;
-	width: 1em;
-	height: 1em;
+	width: 13pt;
+	height: 13pt;
 	display: block;
 	content: ' ';
 	left: 0;
@@ -65,9 +66,9 @@ h1 {
 
 .jatlh>:first-child:before {
 	position: absolute;
-	top: -2pt;
-	left: 20pt;
-	font-size: 6pt;
+	top: -3pt;
+	left: 17pt;
+	font-size: 7pt;
 }
 
 .qeylIS:before, .qeylIS:after {
