@@ -30,8 +30,8 @@ h1 {
 }
 
 .Hoch {
-	color: white;
-	text-shadow: black 0 0 1px, black 0 0 1.5px, black 0 0 2px;
+	-webkit-text-stroke: .5pt black;
+	-webkit-text-fill-color: white;
 }
 
 .jatlh {
