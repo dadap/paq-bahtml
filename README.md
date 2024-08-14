@@ -29,7 +29,7 @@ Acknowledgements
 
 The paq'batlh 2nd edition is ©2022 Floris Schönfeld, Kees Ligtelijn, Vincent
 W.J. van Gerven Oei, David Yonge-Mallo, and Marc Okrand. It is licensed under
-a [Creative Commons BY-SA-NC 4.0](http://creative- commons.org/licenses/by-nc-sa/4.0/)
+a [Creative Commons BY-SA-NC 4.0](http://creative-commons.org/licenses/by-nc-sa/4.0/)
 license. In compliance with this license, this HTML-formatted version of the
 text is also provided under the same license.
 
